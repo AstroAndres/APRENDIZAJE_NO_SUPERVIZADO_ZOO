@@ -20,4 +20,4 @@ En este caso de aprendizaje no supervizado, usando el archivo **zoo-data.csv** t
 
   Nuestro trabajo consistira a partir de esta información poder hacer un modelo que nos pueda clasificar y diferenciar estos animales en mamiferos, peces, etc.
 
-Dentro del notebook, esta detallado el trabaj realizado.
+Dentro del notebook, esta detallado el trabajo realizado.
